@@ -2,14 +2,6 @@
 
 Eroseway API Client for Python.
 
-
-## Installation
-
-```
-pip install eroseway
-```
-
-
 ## Requirements
 
 - Python 3.7+
